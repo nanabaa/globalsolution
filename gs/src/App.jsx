@@ -24,7 +24,7 @@ function App() {
           <Route path="/faq" element={<FAQ />} />
           <Route path="/gerador" element={<Gerador />} />
           <Route path="/cadastro" element={<Cadastro />} />
-          <Route path="/projeto" element={<Projeto />}/>
+          <Route path="/projeto" element={<Projeto />} />
         </Routes>
         </main>
 
